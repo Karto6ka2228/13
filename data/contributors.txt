@@ -1,5 +1,5 @@
 boyboxer, blue 
-karto6ka2228, white
+karto6ka2228, #FFFFFF
 wilalwil2, interrobang
 nastenkaaaa, white
 milenkawiw, red
