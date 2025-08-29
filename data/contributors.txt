@@ -1,4 +1,6 @@
 karto6ka2228, interrobang
 boyboxer, blue 
 kiwaled, interrobang
-lox, 0xff89cff0
+lox, black
+nastenkaaaa, grey
+milenkawiw, red
